@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="media/just-duel-trailer.mp4"><img src="media/trailer-poster.jpg" alt="Just Duel! trailer: click to watch" width="100%"></a>
+<a href="media/just-duel-trailer.mp4"><img src="media/trailer.webp" alt="Just Duel! trailer" width="100%"></a>
 
-<sub><a href="media/just-duel-trailer.mp4">Watch the 22-second trailer</a></sub>
+<sub><a href="media/just-duel-trailer.mp4">Watch the trailer with sound</a></sub>
 
 # Just Duel!
 
