@@ -2,7 +2,7 @@
 
 <a href="media/just-duel-trailer.mp4"><img src="media/trailer-poster.jpg" alt="Just Duel! trailer: click to watch" width="100%"></a>
 
-<sub>▶ <a href="media/just-duel-trailer.mp4">Watch the 22-second trailer</a></sub>
+<sub><a href="media/just-duel-trailer.mp4">Watch the 22-second trailer</a></sub>
 
 # Just Duel!
 
@@ -21,7 +21,7 @@ Duel the computer or your friends on a 3D table, with a real rules engine behind
 
 ## Features
 
-### 🃏 Every card plays by the real rules
+### Every card plays by the real rules
 Rulings come from **EDOPro's open-source engine** (Project Ignis's ocgcore, compiled to WebAssembly), so every card does exactly what it says: chains, timing, Fusion, Ritual, Synchro, Xyz, Pendulum and Link. Duel in **four eras**, each with its own card pool and Forbidden & Limited list:
 
 | Era | What it is |
@@ -31,20 +31,20 @@ Rulings come from **EDOPro's open-source engine** (Project Ignis's ocgcore, comp
 | **Edison** | April 2010: Synchros at their peak |
 | **Modern** | Every card and mechanic, with today's list |
 
-### ⚔️ A table that feels like a game
+### A table that feels like a game
 A tilted 3D duel table (or a flat top-down one). Cards leap to the centre when summoned or activated, monsters lunge to attack, life points drain, and destroyed cards shatter. Opponents have names and things to say. Drag cards to play them, and point at any card to read it up close.
 
-### 🎓 A coach at your side
+### A coach at your side
 **12 short lessons** take you from your first Normal Summon to Link Monsters, including four for players who only know the original game. In any duel against the computer, a coach can explain the rules, give a hint when you ask, or suggest every move with the reason why.
 
-### 🗺️ Ways to play
+### Ways to play
 - **Duel:** the computer (Easy, Medium or Hard) or a friend on the same device, with your decks or a ready-made character deck.
 - **Campaign:** take on the anime's duelists across four chapters, win booster packs from the sets of the time, and build your deck from the cards you open.
 - **Gauntlet:** a roguelike. Start with a small deck, travel a branching map of duels, shops, rest spots and events, collect relics, and beat a boss at the end of each of three acts. Includes a daily run, shareable seeds and Ascension levels.
 - **Online:** play a friend through a room code (peer to peer, no account), or over your home network with the desktop app.
 - **Ranked:** ranked duels with friends, using the decks you built in the Campaign.
 
-### 🛠️ And the rest
+### And the rest
 - **Deck builder:** search and filters, legality checks for each era, sample hands, and YDK / ydke import and export.
 - **Replays:** watch your last 30 duels again, or send one to a friend with a share code.
 - **Take back** your last move against the computer.
